@@ -1,8 +1,8 @@
 Project Scenario : 
 The CEO of a cybersecurity technology startup, Mufid Hossein, is hiring you to work on a
-strategic project suppor?ng a fleet of connected and autonomous vehicles. The company is
-building out a Vehicle Security Opera?ons Center (VSOC). The vision for the product is to build
-a cloud-based plaIorm to support the following capabili?es:
+strategic project supporting a fleet of connected and autonomous vehicles. The company is
+building out a Vehicle Security Operations Center (VSOC). The vision for the product is to build
+a cloud-based plaIorm to support the following capabilities:
 1. A real-time monitoring plaIorm that ingests, analyzes, and responds to streaming data
 from fleets of connected and autonomous vehicles.
 2. Repor?ng of cyber threats in real ?me
