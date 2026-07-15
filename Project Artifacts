@@ -1,0 +1,63 @@
+VSOC/
+│
+├── 01_Project_Overview
+│   ├── Vision.md
+│   ├── Business_Case.md
+│   ├── Project_Charter.md
+│
+├── 02_Product_Strategy
+│   ├── Product_Roadmap.md
+│   ├── Capability_Map.md
+│   ├── Release_Plan.md
+│
+├── 03_Business_Analysis
+│   ├── BRD.md
+│   ├── Stakeholder_Analysis.md
+│   ├── Business_Rules.md
+│   ├── Assumptions.md
+│   ├── Constraints.md
+│
+├── 04_Requirements
+│   ├── Functional_Requirements.md
+│   ├── Non_Functional_Requirements.md
+│   ├── Requirements_Traceability_Matrix.xlsx
+│
+├── 05_Process_Models
+│   ├── Current_State_Process.drawio
+│   ├── Future_State_Process.drawio
+│   ├── BPMN_Process.drawio
+│
+├── 06_Data_Models
+│   ├── Context_Diagram.drawio
+│   ├── DFD_Level0.drawio
+│   ├── DFD_Level1.drawio
+│   ├── ERD.drawio
+│   ├── Logical_Data_Model.drawio
+│
+├── 07_Architecture
+│   ├── Solution_Architecture.drawio
+│   ├── Cloud_Architecture.drawio
+│   ├── Security_Architecture.drawio
+│   ├── Deployment_Diagram.drawio
+│
+├── 08_Agile
+│   ├── Epic_Backlog.md
+│   ├── Feature_Backlog.md
+│   ├── User_Stories.md
+│   ├── Sprint_1.md
+│   ├── Sprint_2.md
+│   ├── Sprint_3.md
+│
+├── 09_Project_Management
+│   ├── RAID_Log.xlsx
+│   ├── Risk_Register.xlsx
+│   ├── Communication_Plan.md
+│   ├── Quality_Management_Plan.md
+│   ├── Change_Management_Plan.md
+│
+├── 10_Testing
+│   ├── Test_Strategy.md
+│   ├── Test_Plan.md
+│   ├── Acceptance_Criteria.md
+│
+└── README.md
