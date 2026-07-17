@@ -1,0 +1,10 @@
+| Persona                         | Primary Goals                                    | Main Challenges                        | Key VSOC Features                                          |
+| ------------------------------- | ------------------------------------------------ | -------------------------------------- | ---------------------------------------------------------- |
+| **Security Operations Analyst** | Detect and respond to threats quickly            | False positives, delayed alerts        | Real-time monitoring, threat detection, automated response |
+| **Data Engineer**               | Build reliable, scalable data pipelines          | High data volume, latency              | Streaming ingestion, pipeline monitoring, APIs             |
+| **DevOps Engineer**             | Maintain secure, highly available infrastructure | Deployment risk, scaling               | CI/CD, infrastructure monitoring, cloud management         |
+| **Legal & Compliance Officer**  | Ensure regulatory compliance                     | Audit complexity, changing regulations | Audit logs, compliance reporting, data governance          |
+| **Fleet Operations Manager**    | Keep vehicles secure and operational             | Limited visibility, operational impact | Fleet dashboards, executive reporting, incident summaries  |
+
+
+Link to board:  https://miro.com/app/board/uXjVG8qjOPk=/

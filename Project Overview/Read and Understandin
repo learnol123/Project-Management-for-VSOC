@@ -1,0 +1,32 @@
+| Order | Document                             | Owner                              | Purpose                                                                                                       |
+| ----- | ------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1     | Business Requirements Document (BRD) | Product Manager / Business Analyst | Defines the business problem, objectives,           
+                                                                                        stakeholders, and business requirements.                            |
+| 2     | Product Vision Document              | Product Manager                    | Defines the product vision, goals, target users, 
+                                                                                        and value proposition. *(Sometimes created before the BRD.)* |
+| 3     | Product Requirements Document (PRD)  | Product Manager                    | Converts business requirements into detailed 
+                                                                                        product requirements.                                            |
+| 4     | User Personas                        | Product Manager / UX               | Defines the target users and their 
+                                                                                      needs.                                                                     |
+| 5     | User Journey Maps                    | Product Manager / UX               | Shows how users interact with the 
+                                                                                      product.                                                                    |
+| 6     | Feature List                         | Product Manager                    | Breaks the product into major 
+                                                                                      features.                                                                       |
+| 7     | Epics                                | Product Manager                    | Groups related functionality into large work 
+                                                                                        items.                                                           |
+| 8     | User Stories                         | Product Manager                    | Defines user-focused requirements in an Agile 
+                                                                                      format.                                                         |
+| 9     | Acceptance Criteria                  | Product Manager                    | Specifies when a user story is considered 
+                                                                                        complete.                                                           |
+| 10    | Product Backlog                      | Product Manager                    | Prioritizes epics and user stories for 
+                                                                                        development.                                                           |
+| 11    | Wireframes / Mockups                 | UX Designer                        | Designs the User 
+                                                                                        interface.                                                                                  |
+| 12    | Technical Design / Architecture      | Solution Architect / Engineering   | Describes the technical 
+                                                                                        implementation.                                                                       |
+| 13    | Sprint Planning                      | Scrum Team                         | Plans development 
+                                                                                        iterations.                                                                                 |
+| 14    | Test Cases & QA Plan                 | QA Team                            | Verifies the product meets 
+                                                                                        requirements.                                                                      |
+| 15    | Release Plan                         | Product Manager                    | Defines release scope and 
+                                                                                        schedule.                                                                           |
