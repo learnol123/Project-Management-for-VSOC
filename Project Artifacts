@@ -10,14 +10,14 @@ VSOC/
 │   ├── Capability_Map.md
 │   ├── Release_Plan.md
 │
-├── 03_Business_Analysis
+├── 03_Business_Analysis (Covered in Business_case.md)
 │   ├── BRD.md
 │   ├── Stakeholder_Analysis.md
 │   ├── Business_Rules.md
 │   ├── Assumptions.md
 │   ├── Constraints.md
 │
-├── 04_Requirements
+├── 04_Requirements (Covered in product roadmap doc)
 │   ├── Functional_Requirements.md
 │   ├── Non_Functional_Requirements.md
 │   ├── Requirements_Traceability_Matrix.xlsx
